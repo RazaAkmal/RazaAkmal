@@ -1,10 +1,48 @@
-- 👋 Hi, I’m @RazaAkmal
-- 👀 I’m interested in Reactjs Projects
-- 🌱 I’m currently Working on Real Estate Project Based On ReactJs
-- 💞️ I’m looking to collaborate on Projects based on Reactjs
-- 📫 How to reach me ... razaakmal11@gmail.com
+# Hi there, I'm Raza Akmal 👋
 
-<!---
-RazaAkmal/RazaAkmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate **Software Engineer** with a focus on building modern web applications using **JavaScript**, **React**, and **Next.js**.
+
+---
+
+## 🚀 About Me
+
+- 💻 **Profession:** Software Engineer
+- 🏆 **Certified React.js Developer** & **Top Rated Plus** on Upwork
+- 🌱 Constantly learning and exploring new web technologies
+- 📧 Reach me at: [razaakmal11@gmail.com](mailto:razaakmal11@gmail.com)
+
+---
+
+## 🛠️ Top Skills
+- **JavaScript** (ES6+)
+- **React.js**
+- **Next.js**
+- UI/UX Design Principles
+- RESTful APIs & Web Services
+- Agile & Remote Collaboration
+
+---
+
+## 🌟 Featured Projects
+
+- [**batchdialer**](https://github.com/yourusername/batchdialer) — (Add a short description if you wish!)
+- [**Kaha Create**](https://github.com/yourusername/kaha-create) — (Add a short description if you wish!)
+
+---
+
+## 🏅 Achievements
+
+- 📜 **Certified React.js Developer**
+- ⭐ **Top Rated Plus** on Upwork
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/raza-akmal-15b615121/)
+
+---
+
+<!--
+**RazaAkmal/RazaAkmal** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
